@@ -9,7 +9,6 @@ import com.zyq.easypermission.EasyPermission;
 import com.zyq.easypermission.EasyPermissionHelper;
 
 /**
- * @author Zhang YanQiang
  * @date 2019 06 03
  */
 public class MainActivity extends BaseActivity {
